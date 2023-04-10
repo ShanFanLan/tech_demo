@@ -1,0 +1,38 @@
+.statisticGrid {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-auto-rows: auto;
+    flex-direction: rows;
+    justify-content: center;
+} 
+
+.statisticRight {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-auto-rows: auto;
+    flex-direction: column;
+    margin-left: 20px;
+    padding-left: 10px;
+    border-left: 2px solid lightgrey;
+}
+
+.statisticLeft {
+    margin-left: 50px;
+}
+
+#bar{
+    border-top: 2px solid lightgrey;
+    width: 90%;
+    padding-bottom: 10px;
+
+}
+
+.RecipeCard img {
+    display: block;
+}
+h4 {
+    text-align: center;
+    color: #d5352b;
+    background-color: #eae6e3;
+}
+
