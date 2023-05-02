@@ -1,5 +1,3 @@
-111
-222
 ## Project Overview
 This project focuses on building a "Recipe Website" using the `Ant Design (antd)` library. Ant Design is an extensible, user-friendly and data-driven library. Our app utilizes various Ant Design components and data visualization functions such as tables, bar charts, and pie charts to complete the app. We have collected 21 recipes ( `Recipes.json` ) for users to add to their favorites and generate a shopping list table. Additionally, we offer a pie chart to display the proportion of each ingredient category and a bar chart to demonstrate the quantity of ingredient categories.
 
